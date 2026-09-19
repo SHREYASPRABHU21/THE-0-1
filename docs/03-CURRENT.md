@@ -7,38 +7,18 @@ The 0-1
 Phase 0 — Blank Responsive Magazine Prototype
 
 ## Current milestone
-M0.0 — Documentation and project foundation
+M0.1 — Build a blank responsive book shell
 
 ## Current task
-Create the documentation files, add AI project rules, and commit the project foundation to GitHub.
+M0.1 complete. The blank responsive book shell is implemented and verified.
 
 ## Done when
-- All documentation files exist
-- Copilot instruction file exists
-- Documentation is committed and pushed
-- The next milestone is clearly recorded
+- Front cover, eight blank inner pages, and back cover exist
+- Desktop two-page spread works
+- Mobile one-page mode works
+- Previous/next controls work
+- Page indicator is accurate
+- Build passes with no TypeScript errors
 
 ## Next milestone
-M0.1 — Build a blank responsive book shell.
-
-## M0.1 scope preview
-
-Build:
-- Front cover
-- Eight blank inner pages
-- Back cover
-- Desktop two-page layout
-- Mobile one-page layout
-- Previous/next controls
-- Page indicator
-
-Do not build yet:
-- Templates
-- Zoom
-- Full screen
-- Pop-ups
-- Figma/Canva imports
-- Real content
-- Database
-- AI
-- Admin editor
+M0.2 — Design tokens and themes.

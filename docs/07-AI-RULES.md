@@ -73,3 +73,5 @@ For major architecture decisions, provide:
 - Do not invent facts or citations.
 - Use original summaries and analysis.
 - Respect image/video licences and credits.
+
+Inspect the current files, git diff, relevant project docs, and recent commits before editing. Continue the existing implementation. Do not rewrite working code or introduce a different architecture.
