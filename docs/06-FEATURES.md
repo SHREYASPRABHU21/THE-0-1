@@ -18,10 +18,10 @@ Status values:
 | Mobile one-page view | Done | M0.1 |
 | Previous/next controls | Done | M0.1 |
 | Page indicator | Done | M0.1 |
-| Design tokens/themes | Planned | M0.2 |
-| Zoom controls | Planned | M0.3 |
-| Full screen | Planned | M0.3 |
-| Contents/thumbnails | Planned | M0.3 |
+| Design tokens/themes | Done | M0.2 |
+| Zoom controls | Done | M0.3 |
+| Full screen | Done | M0.3 |
+| Contents/thumbnails | Done | M0.3 |
 | Cover template | Planned | M0.4 |
 | Contents template | Planned | M0.4 |
 | Feature template variants | Planned | M0.5 |
